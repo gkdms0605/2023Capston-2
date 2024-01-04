@@ -1,16 +1,24 @@
-# start_project
+# 👩‍🧒미혼모들을 위한 앱, "처음"
+2학기 캡스톤 프로젝트
 
-A new Flutter project.
+## 💡팀원
+> 팀장 서창현<br>
+> 팀원 김주오 이하은 송준희 
 
-## Getting Started
+## ⚙️🖥️개발환경
+- front – (flutter 프레임워크 사용) dart<br>
+- back – firebase<br>
+- design - figma<br>
 
-This project is a starting point for a Flutter application.
+## 프로젝트 소개 및 목적
 
-A few resources to get you started if this is your first Flutter project:
+## 프로젝트 구현 기능
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 기대효과
+> 직접 센터를 방문하지 못하는 미혼모들도 처음앱을 통해 상담이 가능하여,<br> <strong>온라인에서도 센터로부터 다양한 정보와 서비스를 제공</strong>받을 수 있다.
+>
+> 사용자 주변 센터의 위치를 안내함과 동시에 홍보함으로써 <strong>사용자 주변 미혼모 센터의 활성화</strong>를 기대할 수 있다.
+>
+> 커뮤니티 기능을 통해 다른 미혼모들과 소통하며 육아에 대한 정보를 공유하며 <br><strong>육아에 대해 서툰 부분을 다른 사용자들과의 정보 공유</strong>를 통해 이를 해결할 수 있고, 육아 스트레스를 줄일 수 있다.
+>
+> 마지막으로, 센터와 익명상담이 가능하기 때문에 자신의 개인정보를 밝히지 않아도 상담을 할 수 있다.<br> 따라서 <strong>사용자가 자신의 개인정보를 밝혀야 하는 부담</strong>에서 벗어날 수 있다.
